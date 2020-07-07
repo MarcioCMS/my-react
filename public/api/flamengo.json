@@ -1,0 +1,10 @@
+{ 
+    "data": {
+    "id": "flamengo",
+    "name": "Clube de Regatas do Flamengo",
+    "link": "https://www.flamengo.com.br/",
+    "img_shield": "http://t1.gstatic.com/images?q=tbn:ANd9GcQV8uVkp2AEazXrpeRNQngQTBEOME6OXR6AX0ITGYkSYNzz2_g3",
+     "img_mascot": "https://sites.google.com/site/enciclopediadoflamengo/_/rsrc/1468861589305/--mascotes/URUBU.jpg",
+     "description": "O Clube de Regatas do Flamengo é uma agremiação poliesportiva brasileira com sede na cidade do Rio de Janeiro. Fundado no bairro de mesmo nome para disputas de remo em 17 de novembro de 1895, tornou-se um dos clubes mais bem-sucedidos e populares do esporte."
+  }
+}
